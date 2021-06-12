@@ -4,17 +4,17 @@
 }
 
 .auth-tabs .nav-link.active {
-    color: #fd7e14;
+    color: #F9792B;
 }
 
 .submit-login {
-    background-color: #fd7e14;
+    background-color: #F9792B;
 }
 
 .nav-pills .nav-link.active {
     background-color: transparent;
-    color: #fd7e14;
-    border-bottom: 2px solid #fd7e14;
+    color: #F9792B;
+    border-bottom: 2px solid #F9792B;
     border-radius: 0;
     padding-left: 0;
     padding-right: 0;
